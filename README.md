@@ -1,4 +1,4 @@
-# 🚀 Twitter Clone — Feature Overview & Project Structure
+# 🚀 Twitter Clone
 
 A functional **Twitter-like application** featuring user authentication, tweet creation, and interactive tweet actions.
 
@@ -25,4 +25,29 @@ A functional **Twitter-like application** featuring user authentication, tweet c
 ---
 
 ## 🗂 Project Structure
+
+root/
+│
+├── client/ # All client-side JavaScript logic
+│
+├── server/ # Express + Node.js backend logic
+│
+└── views/ # EJS template files for UI rendering
+
+
+---
+
+## 🛠 Technologies Used
+
+### 🎨 Frontend  
+- **JavaScript**
+
+### ⚙️ Backend  
+- **Node.js**
+- **Express.js**
+
+### 🗄 Database  
+- **MongoDB (NoSQL)**
+
+---
 
